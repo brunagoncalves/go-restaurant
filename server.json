@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "price": 19.9,
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": 21.9,
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": 25.9,
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.panelinha.com.br/receita/962938800000-Salada-nicoise.jpg",
+      "name": "Salada Francesa",
+      "price": 20,
+      "description": "A clássica salada francesa é um ótimo coringa para a mesa do dia-a-dia.",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://cdn.panelinha.com.br/receita/1581946267615-RECEITA-BERINJELA.jpg",
+      "name": "Beringela a Parmegiana",
+      "price": 18.9,
+      "description": "Uma versão mais leve, com apresentação mais moderna, com berinjela mais crocante e sabor mais equilibrado.",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
